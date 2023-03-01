@@ -1,5 +1,7 @@
 # job4j_di
 
+This app is a simple implementation of Spring Context.
+
 # Used technologies
 
 Implemented with:
@@ -11,7 +13,6 @@ Implemented with:
 # Environment requirements
 
 <ul>
- <li>Create db "di". Login: postgres, password: password</li>
  <li>Create .jar file via maven command "mvn package"</li>
  <li>Go to the Target folder and check the presence of "job4j_di-1.0-SNAPSHOT.jar" file</li>
  <li>Open the command line, go to the Target folder</li>
