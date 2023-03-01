@@ -1,7 +1,7 @@
 package ru.job4j.di;
 
 /**
- * Demonstration class of a context implementation
+ * Demonstration of a context implementation class
  *
  * @author itfedorovsa (itfedorovsa@gmail.com)
  * @version 1.0
