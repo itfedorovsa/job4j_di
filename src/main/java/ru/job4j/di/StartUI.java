@@ -1,5 +1,7 @@
 package ru.job4j.di;
 
+import org.springframework.stereotype.Component;
+
 /**
  * StartUI class (main)
  *
@@ -7,6 +9,7 @@ package ru.job4j.di;
  * @version 1.0
  * @since 01.03.23
  */
+@Component
 public class StartUI {
 
     private Store store;
